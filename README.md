@@ -1,13 +1,19 @@
 # Goody-Generator
 
+### Create an IBM acount:
 
- Create a Node-RED app using the in the cloud.
+ Create a Node-RED app using in the cloud.
+ 
+ First, create an account here: 
+
 
 
 
 ### Open IBM Cloud Service Catalog:
 
-> [Click to create the Node-RED app (requires a login)](https://console.bluemix.net/catalog/starters/node-red-starter).
+Then deploy a simple app:
+
+> [Then deploy a simple app:)](https://console.bluemix.net/catalog/starters/node-red-starter).
 
 <hr>
 
@@ -22,3 +28,6 @@
 <hr>
 
 
+### Continue Building
+
+talk to your car
