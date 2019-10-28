@@ -1,3 +1,3 @@
 # Goody-Generator
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+<a href="http://stackoverflow.com" target="_new">Go</a>
