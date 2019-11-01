@@ -15,7 +15,7 @@ Then deploy a simple app: [Deploy app:](https://console.bluemix.net/catalog/star
 
 <hr>
 
-![](../../deploy.png)
+![](../master/deploy.png)
 ![](https://github.com/hansb001/Goody-generator/blob/master/deploy.png)
 
 <hr>
