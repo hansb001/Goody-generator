@@ -35,5 +35,7 @@ If you have your Node-RED application running, you can continue building apps.
 
 Here are some examples:
 
-
+[Node-RED labs](https://github.com/watson-developer-cloud/node-red-labs)
 [Use your voice to control a machine](https://github.com/hansb001/mic-sts-nlu-weather-tone-analyzer)
+
+You can also have a look at [https://developer.ibm.com](https://developer.ibm.com/?s=node-red&orderby=date&order=desc&category_name=&type=) for more inspiration.
