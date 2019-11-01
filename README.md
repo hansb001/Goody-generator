@@ -36,4 +36,4 @@ If you have your Node-RED application running, you can continue building apps.
 Here are some examples:
 
 
-talk to your car
+[Use your voice to control a machine](https://github.com/hansb001/mic-sts-nlu-weather-tone-analyzer)
