@@ -19,7 +19,8 @@ Then deploy a simple app: [Deploy app:](https://console.bluemix.net/catalog/star
 
 Login, use your credentials from step 1.
 After logging in, scroll down a bit and give the application a unique name. Leave the rest of the options default.
-click on Create
+<hr>
+Click on Create
 
 After your app is deployed and running, you will see that your app is awake or running. 
 
@@ -30,9 +31,6 @@ Click on 'Visit App URL'
 In the following screens, leave everything default, setting a username and password is optional. 
 
 <hr>
-
-<hr>
-
 
 ### 3. Continue Building
 If you have your Node-RED application running, you can continue building apps.
