@@ -15,7 +15,7 @@ Then deploy a simple app: [Deploy app:](https://console.bluemix.net/catalog/star
 
 <hr>
 
-![](../img/node-red-catalog.png)
+![](deploy.png)
 
 <hr>
 
