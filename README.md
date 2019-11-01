@@ -16,13 +16,9 @@ Then deploy a simple app: [Deploy app:](https://console.bluemix.net/catalog/star
 <hr>
 
 ![](../master/deploy.png)
-![](https://github.com/hansb001/Goody-generator/blob/master/deploy.png)
 
+Then Login, use your credentials from step 1.
 <hr>
-
-
-
-![](../img/node-red-running-instance.png)
 
 <hr>
 
