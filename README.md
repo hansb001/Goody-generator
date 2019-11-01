@@ -7,22 +7,20 @@
  First, create an account here: [Create account](http://ibm.biz/quickapp)
 
 
-
+<hr>
 
 ### 2. Open IBM Cloud Service Catalog:
 
 Then deploy a simple app: [Deploy app:](https://console.bluemix.net/catalog/starters/node-red-starter).
 
-<hr>
-
 ![](../master/deploy.png)
 
 Login, use your credentials from step 1.
 After logging in, scroll down a bit and give the application a unique name. Leave the rest of the options default.
-<hr>
-Click on Create
 
-After your app is deployed and running, you will see that your app is awake or running. 
+Click on Create.
+
+When your app is deployed and running, you will see that your app is awake or running. 
 
 Click on 'Visit App URL' 
 
